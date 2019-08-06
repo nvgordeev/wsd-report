@@ -18,7 +18,6 @@
 ### Дополнительно:
 
 * [Интерактивное сравнение разных цветовых профилей](https://webkit.org/blog-files/color-gamut/comparison.html)
-
 * [Пример с медиазапросом color-gamut](https://codepen.io/nvgordeev/pen/RXQGgW?editors=1100)
 
 ## GraphQL как будущее клиентских API
@@ -38,4 +37,5 @@
 Видео доклада: https://www.youtube.com/watch?v=_0psqory6rk&t=22983s
 
 ### Дополнительно:
-[Пример использования API для синтеза речи в браузере](https://codepen.io/nvgordeev/pen/PMQNJe?editors=1010)
+* [Пример использования API для синтеза речи в браузере](https://codepen.io/nvgordeev/pen/PMQNJe?editors=1010)
+* [Пример использования API для распознавания речи в браузере -  Игра "Орел или решка"](https://codepen.io/nvgordeev/pen/BXYQdP)
