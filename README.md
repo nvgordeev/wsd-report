@@ -76,3 +76,4 @@
 ### Дополнительно:
 * [Пример использования API для синтеза речи в браузере](https://codepen.io/nvgordeev/pen/PMQNJe?editors=1010)
 * [Пример использования API для распознавания речи в браузере - Игра "Орел или решка"](https://codepen.io/nvgordeev/pen/BXYQdP?editors=1010)
+* [Репозиторий игры "Палец" от Владимира Гриненко](https://github.com/tadatuta/FingerBot)
