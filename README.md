@@ -7,6 +7,12 @@
 
 Видео доклада: https://www.youtube.com/watch?v=_0psqory6rk&t=1051s
 
+### Дополнительно:
+* [Презентация о CSS Houdini от Никиты Дубко](https://mefody.github.io/talks/houdini-css/)
+* [Дока по веб компонентам на MDN](https://developer.mozilla.org/ru/docs/Web/Web_components)
+* [Дока по WebAssembly на MDN](https://developer.mozilla.org/ru/docs/WebAssembly)
+
+
 ## TC39: взгляд изнутри
 Выступал **[Сергей Рубанов](https://wsd.events/2019/07/13/#sergey-rubanov)**
 
