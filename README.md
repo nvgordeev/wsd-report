@@ -57,9 +57,8 @@
 ### Дополнительно:
 * [Gighub graphql API](https://developer.github.com/v4/)
 * [Github graphql explorer](https://developer.github.com/v4/explorer/)
-* [Плейграунд от автора доклада](https://codesandbox.io/s/graphql-as-a-future-of-client-apis-8pnrv)
 * [Nodal Graphql Playground - простые примеры запросов](http://graphql.nodaljs.com/)
-* [Плейграунд со схемой и докой, можно потренироваться в составлении запросов](https://api.graph.cool/simple/v1/ciyz901en4j590185wkmexyex)
+* [Плейграунд от автора доклада](https://codesandbox.io/s/graphql-as-a-future-of-client-apis-8pnrv)
 
 ## Новая платформа уже здесь
 Выступал **[Владимир Гриненко](https://wsd.events/2019/07/13/#vladimir-grinenko)**
